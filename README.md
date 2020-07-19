@@ -2,5 +2,5 @@
 
 springcloud Day1 总结
 
-![springcloud Day1总结.png](images/springcloud Day1总结.png)
+![springcloudDay1](images/springcloudDay1.png)
 
